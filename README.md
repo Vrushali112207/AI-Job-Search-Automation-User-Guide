@@ -27,14 +27,14 @@ Go to the tool's web page.
 
 ### 3. Enter Your Job Search Details
 Fill in:
-      Field                Description 
-      -----------------------------------------------
-      Job Title        The role you're targeting
-      -----------------------------------------------
-      Location         City or region for job search
-      -----------------------------------------------
-      Email           Where your results will be sent
-      -----------------------------------------------
+      |Field        |       Description              |
+      |-------------|--------------------------------|
+      |Job Title    |   The role you're targeting    |
+      |-------------|--------------------------------|
+      | Location    |   City or region for job search|
+      |-------------|--------------------------------|
+      |  Email      | Where your results will be sent|
+      |----------------------------------------------|
       
 ### 4. Submit
 Click **Submit**. Your resume is sent securely to the backend for processing.
