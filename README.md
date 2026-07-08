@@ -27,14 +27,15 @@ Go to the tool's web page.
 
 ### 3. Enter Your Job Search Details
 Fill in:
+      
       |Field        |       Description              |
-      |-------------|--------------------------------|
+      |-------------|-------------------------------:|
       |Job Title    |   The role you're targeting    |
       |-------------|--------------------------------|
-      |Location    |   City or region for job search |
+      |Location     |   City or region for job search|
       |-------------|--------------------------------|
-      |Email      | Where your results will be sent  |
-      |----------------------------------------------|
+      |Email        | Where your results will be sent|
+      
       
 ### 4. Submit
 Click **Submit**. Your resume is sent securely to the backend for processing.
@@ -66,10 +67,11 @@ You don't need to do anything here — but for transparency:
 
 ## Troubleshooting
 
-**Issue**                                **Likely Cause**                                                      **What to Do**
-Upload fails              File isn't a PDF, or exceeds size limit                                 Convert to PDF and retry
-No email received         Check spam folder; verify email was typed correctly                     Resubmit the form
-Results look outdated     Job listing expired between scrape and delivery                         Use the "Apply" link promptly; expired links are filtered where possible
+|      Issue            |                  Likely Cause                                  |                    What to Do                                                     |
+|-----------------------|:--------------------------------------------------------------:|----------------------------------------------------------------------------------:|
+|Upload fails           |   File isn't a PDF, or exceeds size limit                      |           Convert to PDF and retry                                                |
+|No email received      |   Check spam folder; verify email was typed correctly          |           Resubmit the form                                                       |
+|Results look outdated  |   Job listing expired between scrape and delivery              |           Use the "Apply" link promptly; expired links are filtered where possible|
 
 
 
