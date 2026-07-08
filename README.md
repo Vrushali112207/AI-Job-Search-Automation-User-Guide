@@ -31,9 +31,9 @@ Fill in:
       |-------------|--------------------------------|
       |Job Title    |   The role you're targeting    |
       |-------------|--------------------------------|
-      | Location    |   City or region for job search|
+      |Location    |   City or region for job search |
       |-------------|--------------------------------|
-      |  Email      | Where your results will be sent|
+      |Email      | Where your results will be sent  |
       |----------------------------------------------|
       
 ### 4. Submit
@@ -47,3 +47,29 @@ You don't need to do anything here — but for transparency:
  2. If your resume qualifies, the system searches LinkedIn and Naukri in parallel for matching jobs.
  3. Results are filtered to remove duplicates and expired listings.
  4. Rejected or expired listings are logged separately (not shown to you, but tracked for quality).
+ 
+ ### 6. Check Your Email
+ 
+ Within a few minutes, you'll receive an email digest containing:
+ - Job title, Posted,Source for each match
+ - A direct link to apply
+
+ ## Frequently Asked Questions
+ ### Q: Why didn't I receive any results?
+  Your resume may not have met the minimum ATS score threshold, or no matching jobs were found for your title/location combination. Try broadening your location or adjusting your target   title.
+
+ ### Q: Can I upload a Word document instead of a PDF?
+  No — only PDF is currently supported.
+
+### Q: Is my resume data stored?
+ No — Its not stored.
+
+## Troubleshooting
+
+**Issue**                                **Likely Cause**                                                      **What to Do**
+Upload fails              File isn't a PDF, or exceeds size limit                                 Convert to PDF and retry
+No email received         Check spam folder; verify email was typed correctly                     Resubmit the form
+Results look outdated     Job listing expired between scrape and delivery                         Use the "Apply" link promptly; expired links are filtered where possible
+
+
+
